@@ -1,0 +1,7 @@
+cassandra:
+  contact-points: localhost
+  keyspace: ks_asset
+  port: 9042
+  datacenter: datacenter1
+server:
+  port: 8081
